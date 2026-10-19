@@ -1,4 +1,4 @@
-# ScribbleScan hand-held
+# ScribbleScan handheld
 
 The phone app for [ScribbleScan](https://github.com/LyricScripts/ScribbleScan): snap a receipt, see where your money goes each month, keep budgets, and sign your computer in by scanning a QR code. Built for Bangladesh first: Bangla and English, ৳ with lakh grouping, day-first dates. Android first.
 

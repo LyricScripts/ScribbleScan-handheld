@@ -1,4 +1,4 @@
-# ScribbleScan hand-held: notes for Claude
+# ScribbleScan handheld: notes for Claude
 
 The phone app (Flutter) for ScribbleScan: snap a receipt, see where your money goes each month, keep budgets, and sign a computer in by scanning a QR code. Android first; iOS later.
 
